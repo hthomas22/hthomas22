@@ -1,17 +1,16 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Hunter Thomas
 <a href="https://www.linkedin.com/in/hunter-thomas22/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a recent graduate from Arizona State University with a profound interest in technology, security, and blockchain with a passion for solving complex business problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My unique journey through life has led me to develop an obsession with innovations in technology that have the potential to impact communities across the globe in a positive manner, and I am eager to make my contribution to our society's future development.  I am aiming to join an organization that is developing, exploring, or currently utilizing blockchain technology and Web3.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+<!-- ## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]] -->
+
 
 <!-- this SECTION NEEDS TO BE COMPLETED!! 
 
@@ -24,8 +23,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|  -->
 
+<!--
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]] -->
 
 <!-- UPDATE THIS SECTION
 ### Network
@@ -48,6 +48,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div> -->
 
+<!--
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
@@ -56,7 +57,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+</div>  -->
 
 <!--
 ## Projects
