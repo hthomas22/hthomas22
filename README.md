@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/hunter-thomas22/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate from Arizona State University where I studied Business with a focus on Information Security.  I try to learn something new everyday and am always on the lookout for new advancements in cybersecurity, blockchain development, and technology in general. 
+I am a recent graduate from Arizona State University where I studied Business with a focus on Information Security.  on the lookout for new advancements in cybersecurity, blockchain development, and technology in general. 
 
 ## Objective
 
@@ -18,13 +18,10 @@ Tokenomics, Whitepaper Analysis, Cryptocurrency Regulations, Centralized and Dec
 
 Fundamental Analysis, Technical Analysis, Investment Research, Analysis Reporting, Portfolio Management, Market Trends, TradingView, CoinGecko, CoinMarketCap
 
-**Programming & Web Development:**
-
-Python, Java, JavaScript, HTML, CSS, Decentralized Applications, Digital Wallets, Data Analysis, Microsoft SQL Server, MySQL
 
 **Tools & Technologies:**
 
-Tableau, Microsoft SQL Server, MySQL, Network Security, Incident Response
+Python, Java, JavaScript, HTML, CSS, Decentralized Applications, Digital Wallets, Data Analysis, Microsoft SQL Server, MySQL, Tableau, Microsoft SQL Server, MySQL, Network Security, Incident Response
 
 <!-- this SECTION NEEDS TO BE COMPLETED!! 
 
