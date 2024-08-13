@@ -8,9 +8,19 @@ I am a recent graduate from Arizona State University where I studied Business wi
 
 My goal in life is simple, "Make tomorrow better than today."  I am aiming to join a team of individuals that is exploring creative ways that solve complex business problems by integrating their current digital infrastructure with blockchain technology, web3, and cryptocurrency to gain a competitive advantage by preparing for the future. 
 
-<!-- ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]] -->
+## Skills
+<!-- [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]] -->
+Blockchain & Cryptocurrency:
+    Tokenomics, Whitepaper Analysis, Cryptocurrency Regulations, Centralized and Decentralized Exchanges, Blockchain Fundamentals, Smart Contract Development with Solidity and Rust
 
+Investment & Portfolio Management:
+    Fundamental Analysis, Technical Analysis, Investment Research, Analysis Reporting, Portfolio Management, Market Trends, TradingView, CoinGecko, CoinMarketCap
+
+Programming & Web Development:
+    Python, Java, JavaScript, HTML, CSS, Decentralized Applications, Digital Wallets, Data Analysis, Microsoft SQL Server, MySQL
+
+Tools & Technologies:
+    Tableau, Microsoft SQL Server, MySQL, Network Security, Incident Response
 
 <!-- this SECTION NEEDS TO BE COMPLETED!! 
 
