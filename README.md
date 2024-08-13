@@ -2,11 +2,11 @@
 <a href="https://www.linkedin.com/in/hunter-thomas22/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate from Arizona State University with a profound interest in technology, security, and blockchain with a passion for solving complex business problems.
+I am a recent graduate from Arizona State University where I studied Business with a focus on Information Security.  I try to learn something new everyday and am always on the lookout for new advancements in cybersecurity, blockchain development, and technology in general. 
 
 ## Objective
 
-My unique journey through life has led me to develop an obsession with innovations in technology that have the potential to impact communities across the globe in a positive manner, and I am eager to make my contribution to our society's future development.  I am aiming to join an organization that is developing, exploring, or currently utilizing blockchain technology and Web3.
+My goal in life is simple, "Make tomorrow better than today."  I am aiming to join a team of individuals that is exploring creative ways that solve complex business problems by integrating their current digital infrastructure with blockchain technology, web3, and cryptocurrency to gain a competitive advantage by preparing for the future. 
 
 <!-- ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]] -->
