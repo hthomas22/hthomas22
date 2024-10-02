@@ -1,12 +1,11 @@
 # Hello, I'm Hunter Thomas
 <a href="https://www.linkedin.com/in/hunter-thomas22/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-I am a recent graduate from Arizona State University where I studied Business with a focus on Information Security.  on the lookout for new advancements in cybersecurity, blockchain development, and technology in general. 
-
 ## Objective
 
-My goal in life is simple, "Make tomorrow better than today."  I am aiming to join a team of individuals that is exploring creative ways that solve complex business problems by integrating their current digital infrastructure with blockchain technology, web3, and cryptocurrency to gain a competitive advantage by preparing for the future. 
+Graduating from Arizona State University in 2024 with a B.A. in Business (Information Security), I am deeply passionate about utilizing advanced cybersecurity frameworks to protect organizations and individuals.  A few of my other interests are blockchain technology, web3 development, cryptocurrency, and the potential that decentralization has for solving current economic issues. 
+
+My goal in life is simple, try to create a better tomorrow than today.  I am aiming to join a team of individuals that is exploring creative ways to solve complex business problems to gain a competitive advantage for the future. 
 
 ### Skills
 <!-- [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]] -->
@@ -16,8 +15,7 @@ Tokenomics, Whitepaper Analysis, Cryptocurrency Regulations, Centralized and Dec
 
 **Investment & Portfolio Management:**
 
-Fundamental Analysis, Technical Analysis, Investment Research, Analysis Reporting, Portfolio Management, Market Trends, TradingView, CoinGecko, CoinMarketCap
-
+Fundamental Analysis, Technical Analysis, Investment Research, Analysis Reporting, Portfolio Management, Market Trends, Economic Policies
 
 **Tools & Technologies:**
 
