@@ -1,5 +1,6 @@
 # Hello, I'm Hunter Thomas
 <a href="https://www.linkedin.com/in/hunter-thomas22/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.x.com/hltcrypto"><img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse" /></a>
 
 ## Objective
 
