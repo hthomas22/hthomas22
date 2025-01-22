@@ -4,9 +4,9 @@
 
 ## Objective
 
-Graduating from Arizona State University in 2024 with a B.A. in Business (Information Security), I am deeply passionate about utilizing advanced cybersecurity frameworks to protect organizations and individuals.  A few of my other interests are blockchain technology, web3 development, cryptocurrency, and the potential that decentralization has for solving current economic issues. 
+Graduating from Arizona State University in 2024 with a B.A. in Business (Information Security), I am deeply passionate about cryptocurrency and blockchain technology.  I am also interested in cybersecurity, data analysis, asset management, global economics, and the potential that decentralization and blockchain have to improve these sectors. 
 
-My goal in life is simple, try to create a better tomorrow than today.  I am aiming to join a team of individuals that is exploring creative ways to solve complex business problems to gain a competitive advantage for the future. 
+My goal in life is simple, try to create a better tomorrow than today.  I am aiming to join a team of individuals that is exploring creative ways to solve complex business problems to gain a competitive advantage for the future by taking advantage of blockchain or cryptocurrency.  I have said it for a while, and I will continue to until I am proven wrong, but i truly believe that decentralization is the key technology needed to move humanity forward. 
 
 ### Skills
 <!-- [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]] -->
